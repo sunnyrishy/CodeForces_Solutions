@@ -2,7 +2,7 @@ Problem : https://codeforces.com/problemset/problem/1855/B
 
 B. Longest Divisors Interval
 time limit per test2 seconds
-memory limit per test256 megabytes
+memory limit per test256 megabytes 
 Given a positive integer n, find the maximum size of an interval [l,r] of positive integers such that, for every i in the interval (i.e., l≤i≤r), n is a multiple of i.
 
 Given two integers l≤r, the size of the interval [l,r] is r−l+1 (i.e., it coincides with the number of integers belonging to the interval).
